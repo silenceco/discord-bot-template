@@ -13,5 +13,7 @@ A clean, asynchronous Discord bot template built with `discord.py`.
 pip install discord.py python-dotenv
 export DISCORD_TOKEN="YOUR_TOKEN_HERE"
 python main.py
-
-
+```
+<p align="center">
+  <code>⚡ Made by <strong>Silence</strong></code>
+</p>
